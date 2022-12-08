@@ -1,0 +1,21 @@
+{
+	"education": [{
+		"school": "GGTU",
+		"program": "Bachelor of Computer Applications (BCA)",
+		"from": 2018,
+		"to": 2020,
+		"percentage": 84
+	}, {
+		"school": "Taiyebiyah Eng Med Senior Secondary School",
+		"program": "12th (RBSE)",
+		"from": 2003,
+		"to": 2017,
+		"percentage": 74
+	}, {
+		"school": "Taiyebiyah Eng Med Senior Secondary School",
+		"program": "10th (RBSE)",
+		"from": 2003,
+		"to": 2015,
+		"percentage": 74
+	}]
+}
